@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Road-Accident-Prediction.git
+   git clone https://github.com/MohamedAlaaAhmed/Road-Accident-Prediction.git
    cd Road-Accident-Prediction
    ```
 
@@ -57,5 +57,5 @@ The dataset used includes features like weather conditions, temperature, visibil
 
 ---
 
-**Author:** Muhammed-AlReay  
+**Author:** MohamedAlaaAhmed 
 **Note:** This is a self-contained, modular project and can be easily extended or adapted for broader accident analysis applications.
